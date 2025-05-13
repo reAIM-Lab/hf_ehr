@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "cumc_model"
+name = "hf_ehr"
 version = "0.1.3"
 authors = [
     { name = "Michael Wornow" }
